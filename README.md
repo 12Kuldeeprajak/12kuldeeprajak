@@ -17,7 +17,7 @@
 <a href="https://twitter.com/kuldeep90666811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kuldeep90666811" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kuldeep-rajak-242085222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kuldeep-rajak-242085222/" height="30" width="40" /></a>
 <a href="https://instagram.com/kuldeep_kd32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kuldeep_kd32" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="s" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="SATiian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
