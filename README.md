@@ -4,7 +4,8 @@
 <img align="right" alt="coding" width = "400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12kuldeeprajak&label=Profile%20views&color=0e75b6&style=flat" alt="12kuldeeprajak" /> </p>
 
-- 🌱 I’m currently learning **Python , Machine learning , SQL,Cloud.**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Cloud Computing (AWS), Data Science Tools (NumPy, Pandas, Scikit-learn, TensorFlow), and SQL.**
+
 
 - 💬 Ask me about **python**
 
